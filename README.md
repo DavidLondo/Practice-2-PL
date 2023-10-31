@@ -16,3 +16,5 @@
 
 ## Metodología
 #### Para la realización del programa se hizo base en ejemplos proporcionados por el profesor de area, llevando estas estructuras para la definición de métodos y la construcción de otros.
+
+## Video explicación de Haskell: https://youtu.be/kUFbSiT1IYI
